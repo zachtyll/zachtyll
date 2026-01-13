@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zachtyll
+- 👋 Hi, I’m Zacharias Tyllström
 - 👀 I’m interested in solving problems with software.
 - 📫 Work related contacts reach me on my [LinkedIn page](https://www.linkedin.com/in/zacharias-tyllstrom/)
 
